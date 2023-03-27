@@ -1,0 +1,39 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Prediction of Large for Gestational Age Infants in
+  Ethnically Diverse Datasets Using Machine Learning
+  Techniques
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Sumaia
+    family-names: Sabouni
+    email: sumaia.sabouni@gmail.com
+    affiliation: University of Bradford
+repository-code: 'https://github.com/ssabouni/phdFinalCode'
+abstract: >-
+  Background: Large-for-gestational-age (LGA) is a common
+  pregnancy complication, associated with high maternal BMI
+  and diabetes. Despite its gravity, standard prediction
+  methods, such as ultrasounds are inaccurate. 
+
+
+  Objective: application of machine learning methods to
+  develop LGA prediction models for ethnically diverse
+  datasets, providing a reliability index to enhance
+  standard clinical methods. 
+
+
+  Methods: Two retrospective datasets were used: Born In
+  Bradford (BiB) and NHS, each including a significant
+  percentage of women of South Asian ethnicity. After
+  appropriate data preparation, LGA classification models
+  were developed, and imbalanced learning strategies were
+  applied. Additionally, using data reduction, important
+  features within the datasets were reported.
+license: MIT
